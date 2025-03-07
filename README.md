@@ -1,2 +1,2 @@
 # Argentina JSON
-Información de argentina en json tomada de: argentina.gob.ar
+Información de Argentina en JSON tomada de: argentina.gob.ar
