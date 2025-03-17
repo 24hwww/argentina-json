@@ -1,5 +1,77 @@
 {
   "Buenos Aires": [
+{
+      "nombre": "ADROGUÉ",
+      "codigo": "2224"
+    },
+    {
+      "nombre": "BERAZATEGUI",
+      "codigo": "221"
+    },
+    {
+      "nombre": "BURZACO",
+      "codigo": "2224"
+    },
+    {
+      "nombre": "CIUDAD EVITA",
+      "codigo": "2202"
+    },
+    {
+      "nombre": "CLAYPOLE",
+      "codigo": "2224"
+    },
+    {
+      "nombre": "DON TORCUATO",
+      "codigo": "348"
+    },
+    {
+      "nombre": "EZEIZA",
+      "codigo": "2224"
+    },
+    {
+      "nombre": "FLORENCIO VARELA",
+      "codigo": "2225"
+    },
+    {
+      "nombre": "HURLINGHAM",
+      "codigo": "237"
+    },
+    {
+      "nombre": "ITUZAINGÓ",
+      "codigo": "237"
+    },
+    {
+      "nombre": "LANÚS",
+      "codigo": "2224"
+    },
+    {
+      "nombre": "LOMAS DE ZAMORA",
+      "codigo": "2224"
+    },
+    {
+      "nombre": "MORÓN",
+      "codigo": "237"
+    },
+    {
+      "nombre": "QUILMES",
+      "codigo": "2224"
+    },
+    {
+      "nombre": "SAN FERNANDO",
+      "codigo": "3327"
+    },
+    {
+      "nombre": "SAN ISIDRO",
+      "codigo": "3327"
+    },
+    {
+      "nombre": "TIGRE",
+      "codigo": "348"
+    },
+    {
+      "nombre": "VICENTE LÓPEZ",
+      "codigo": "3327"
+    },    
     {
       "nombre": "GENERAL LAS HERAS",
       "codigo": "220"
